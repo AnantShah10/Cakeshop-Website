@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "Home.xsl"?>
+<cakes>
+    <tagcakes>
+        <a>
+            <img src = "../Cake Shop SVG/emojione-v1_birthday-cake.svg"></img>
+        </a>
+        <p>Wedding</p>
+    </tagcakes>
+    <tagcakes>
+        <a>
+            <img src = "../Cake Shop SVG/emojione_birthday-cake.svg"></img>
+        </a>
+        <p>Birthday</p>
+    </tagcakes>
+    <tagcakes>
+        <a>
+            <img src = "../Cake Shop SVG/emojione_birthday-cake-1.svg"></img>
+        </a>
+        <p>Farewell</p>
+    </tagcakes>
+    <tagcakes>
+        <a>
+            <img src = "../Cake Shop SVG/emojione-v1_birthday-cake-1.svg"></img>
+        </a>
+        <p>Customised</p>
+    </tagcakes>
+    <cotdcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com.svg"></img>
+        </a>
+        <p>Name</p>
+    </cotdcakes>
+    <cotdcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (1).svg"></img>
+        </a>
+        <p>Name</p>
+    </cotdcakes>
+    <cotdcakes>
+        <a>
+            <img src = "..//Cake Shop SVG/cake-svgrepo-com (3).svg"></img>
+        </a>
+        <p>Name</p>
+    </cotdcakes>
+    <cotdcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (4).svg"></img>
+        </a>
+        <p>Name</p>
+    </cotdcakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com.svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (1).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (3).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (4).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com.svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (1).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (3).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <cbocakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (4).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </cbocakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com.svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (1).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (3).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (4).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com.svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (1).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (3).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <regcakes>
+        <a>
+            <img class = "CakeImg" src = "../Cake Shop SVG/cake-svgrepo-com (4).svg"></img>
+        </a>
+        <p class = "CakeName">Name</p>
+    </regcakes>
+    <aybcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (5).svg"></img>
+        </a>
+        <p>Name by XYZ</p>
+    </aybcakes>
+    <aybcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (5).svg"></img>
+        </a>
+        <p>Name by XYZ</p>
+    </aybcakes>
+    <aybcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (5).svg"></img>
+        </a>
+        <p>Name by XYZ</p>
+    </aybcakes>
+    <aybcakes>
+        <a>
+            <img src = "../Cake Shop SVG/cake-svgrepo-com (5).svg"></img>
+        </a>
+        <p>Name by XYZ</p>
+    </aybcakes>
+</cakes>

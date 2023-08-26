@@ -1,0 +1,18 @@
+body section .box .cart {
+    display: flex;
+    flex-flow: row;
+}
+
+body section .box .cart .img{
+    width: 15.422vw;
+    height: 14.051vw;
+    background-color: #FFFFBB;
+    border-radius: 1.714vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body section .box .cart .img img {
+    width: 10.281vw;
+}

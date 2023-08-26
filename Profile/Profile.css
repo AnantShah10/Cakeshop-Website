@@ -1,0 +1,65 @@
+body section .box .imgbox {
+    width: 15.422vw;
+    height: 14.051vw;
+    background-color: #FFFFBB;
+    border-radius: 1.714vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body section .box .imgbox img {
+    width: 10.281vw;
+}
+
+body section .box .info {
+    display: flex;
+    flex-flow: column;
+    margin: 1.714vw 0vw 1.714vw 0vw;
+    align-items: center;
+    gap: 3.427vw;
+}
+
+body section .box .row {
+    display: flex;
+    flex-flow: row;
+}
+
+body section .box .row p {
+    margin: 0vw;
+}
+
+body section .box .row .label {
+    width: 16.724vw;
+    height: 3.427vw;
+    margin-right: 4.387vw;
+    color: #2A2945;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    /* letter-spacing: 0.576vw; */
+    display: flex;
+    align-items: center;
+}
+
+body section .box .row .userinput {
+    width: 23.990vw;
+    height: 3.427vw;
+    margin-right: 1.645vw;
+    background: #FFFFBB;
+    border-radius: 1.028vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    /* letter-spacing: 0.576vw; */
+    display: flex;
+    align-items: center;
+}
+
+body section .box .row .big {
+    width: 70.735vw;
+}

@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&family=Merriweather&family=Roboto&display=swap%27');
+
+body {
+    padding: 0vw;
+    margin: 0vw;
+}
+
+body nav {
+    background-color: #484978;
+    height: 6.856vw; 
+}
+
+body nav .navbar {
+    display: flex;
+    flex-flow: row;
+    flex: 1;
+    align-items: center;
+    gap: 3.427vw;
+}
+
+body nav .navbar .logo {
+    display: flex;
+    flex: 0.25;
+    background-color: #FFFFBB;
+    border-radius: 0.686vw;
+    margin-top: 1.713vw;
+    margin-left: 3.427vw;
+    height: 3.428vw;
+}
+
+body nav .navbar .logo a img {
+    height: 3.940vw;
+    margin-top: -0.274vw;
+}
+
+body nav .navbar .shopname {
+    display: flex;
+    flex: 7;
+    margin-top: 1.713vw;
+}
+
+body nav .navbar .shopname a {
+    color: #FFFFBB;
+    height: 3.428vw;
+    font-size: 2.331vw;
+    font-family: 'Merriweather',sans-serif;
+    font-weight: normal;
+    letter-spacing: 0.576vw;
+    text-decoration: none;
+}
+
+body nav .navbar .cart ,
+body nav .navbar .profile {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    flex: 1;
+    margin-top: 1.713vw;
+    justify-content: center;
+}
+
+body nav .navbar .cart a img ,
+body nav .navbar .profile a img{
+    height: 3.427vw;
+}
+
+body hr {
+    margin: 1.714vw 0vw;
+    color: #2A2945;
+    size: 0.069vw;
+}
+
+body section .box {
+    background-color: #484978;
+    display: flex;
+    flex-flow: column;
+}
+
+body section .box .pagepath {
+height: 2.399vw;
+margin: 1.714vw 0vw 0vw 1.714vw;
+color: #FFFF56;
+font-style: normal;
+font-weight: normal;
+font-size: 1.645vw;
+line-height: 2.056vw;
+letter-spacing: 0.576vw;
+display: flex;
+align-items: center;
+}
+
+body footer {
+    background-color: #484978;
+    height: 17.135vw; 
+    display: flex;
+    justify-content: space-around;
+}
+
+body footer .footer {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 1.714vw;
+}
+
+body .footer .verticalline {
+    width: 0vw;
+    height: 16.450vw;
+    top: 8.568vw;
+    border: 0.069vw solid #FFF7D9;
+    background-color: #FFF7D9;
+}
+
+body .footer a {
+    color: #FFFFBB;
+    font-size: 1.645vw;
+    font-family: 'Merriweather',sans-serif;
+    font-weight: normal;
+    letter-spacing: 0.576vw;
+    text-decoration: none;  
+}

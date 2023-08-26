@@ -1,0 +1,110 @@
+body section .box .nametag {
+    height: 3.427vw;
+    margin: 1.714vw 0vw 0vw 1.714vw;
+    color: #FFFF56;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    letter-spacing: 0.576vw;
+    display: flex;
+    align-items: center;
+}
+
+body section .box .contentbox {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    margin-top: 2.7417vw;
+}
+
+body section .box .contentbox .imgbox {
+    width: 15.422vw;
+    height: 14.051vw;
+    background-color: #FFFFBB;
+    border-radius: 1.714vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body section .box .contentbox .imgbox img {
+    width: 10.281vw;
+}
+
+body section .box .contentbox .verticalline {
+    width: 0vw;
+    height: 31.529vw;
+    border: 0.069vw solid #FFFF56;
+    background-color: #FFFF56;
+}
+
+body section .box .contentbox form,
+body section .box form {
+    display: flex;
+    flex-flow: column;
+    gap: 3.427vw;
+}
+
+body section .box .contentbox .formelements {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8.568vw;
+}
+
+body section .box .contentbox form label, 
+body section .box .contentbox form input,
+body section .box form label,
+body section .box form input {
+    height: 3.427vw;
+    /* color: #FFFF56; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    letter-spacing: 0.576vw;
+}
+
+body section .box .contentbox form input,
+body section .box form input {
+    width: 34.271vw;
+    background-color: #FFFFBB;
+    border: none;
+    border-radius: 1.028vw;
+}
+
+body section .box .button {
+    margin: 3.427vw auto 2.056vw auto;
+}
+
+body section .box button {
+    height: 3.427vw;
+    background-color: #FFFF78;
+    border: none;
+    cursor: pointer;
+    border-radius: 1.028vw;
+    color: #2A2945;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.330vw;
+    line-height: 2.879vw;
+    letter-spacing: 0.576vw;
+}
+
+body section .box .formelements {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+body section .box .contentbox form #NameError,
+body section .box .contentbox form #PhoneError,
+body section .box .contentbox form #AddressError,
+body section .box .contentbox form #SEmailError,
+body section .box .contentbox form #SPasswordError,
+body section .box form #LEmailError,
+body section .box form #LPasswordError {
+    display: none;
+    color: #FFFF56;
+}

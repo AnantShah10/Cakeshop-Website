@@ -1,0 +1,165 @@
+body section .box .tagline {
+    height: 7.403vw;
+    color: #FFFF56;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 5.140vw;
+    line-height: 6.375vw;
+    letter-spacing: 0.576vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body section .box .tag-cakes {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+body section .box .tag-cakes .taglinecakes {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+body section .box .tag-cakes .taglinecakes .img img {
+    height: 11.515vw;
+}
+
+body section .box .tag-cakes .taglinecakes .p{
+    height: 4.592vw;
+    margin: 0vw;
+    color: #FFFF56;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.919vw;
+    line-height: 2.399vw;
+    letter-spacing: 0.576vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+body section .box .Cakeline {
+    height: 3.427vw;
+    margin: 1.714vw 0vw 0vw 1.714vw;
+    color: #FFFF56;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.330vw;
+    line-height: 6.375vw;
+    letter-spacing: 0.576vw;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+body section .box .Cotdcakes {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    padding: 1.714vw;
+}
+
+body section .box .Cotdcakes .cakecard ,
+body section .box .Cbocakes .cakecard ,
+body section .box .Regcakes .cakecard {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 18.849vw;
+    height: 17.135vw;
+    background: #FFFFBB;
+    border-radius: 1.714vw;
+}
+
+body section .box .Cotdcakes .cakecard .img img,
+body section .box .Cbocakes .cakecard .img img,
+body section .box .Regcakes .cakecard .img img {
+    width: 15.079vw;
+    height: 11.309vw;
+    top: 1.371vw;
+}
+
+body section .box .Cotdcakes .cakecard .p,
+body section .box .Cbocakes .cakecard .p,
+body section .box .Regcakes .cakecard .p,
+body section .box .Aybcakes .cakecard .p {
+    height: 4.592vw;
+    margin: 0vw;
+    color: #2A2945;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.919vw;
+    line-height: 2.399vw;
+    letter-spacing: 0.576vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+body section .box .Cbocakes,
+body section .box .Regcakes,
+body section .box .Aybcakes {
+    display: flex;
+    flex-flow: column;
+}
+
+body section .box .Cbocakes .row, 
+body section .box .Regcakes .row,
+body section .box .Aybcakes .row {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    padding: 1.714vw;
+    flex-wrap: wrap;
+    gap: 1.714vw;
+}
+
+body section .box .Aybcakes .cakecard {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 43.181vw;
+    height: 39.412vw;
+    background-color: #FFFFBB;
+    border-radius: 1.714vw;
+}
+
+body section .box .Aybcakes .cakecard .img img {
+    width: 37.013vw;
+    height: 27.476vw;
+    top: 3.770vw;
+}
+
+/* body section .box .Cbocakes .cakecard {
+    display: inline-block;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 18.849vw;
+    height: 17.135vw;
+    background: #FFFFBB;
+    border-radius: 1.714vw;
+} */
+/* body section .Cotd .Cotdcakes .CakeCard,
+body section .Cbo .CakeCard {
+    
+} */
+
+/* body section .Cbo .Cbocakes1,
+body section .Cbo .Cbocakes2,
+body section .Cbo .Cbocakes3,
+body section .Cbo .Cbocakes4 {
+    display: flex;
+    flex-flow: column;
+}
+
+body section .Cbo .row1, 
+body section .Cbo .row2 {
+    display: flex;
+    flex-flow: row;
+} */

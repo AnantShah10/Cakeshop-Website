@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "Home.xsl"?>
+<cart>
+    <cartcard>
+        <a>
+            <img src="../Cake Shop SVG/profile-svgrepo-com.svg"></img>
+        </a>
+        <name>Name</name>
+        <quantity>1</quantity>
+        <subtotal>Rs. 123</subtotal>
+    </cartcard>
+    <cartcard>
+        <a>
+            <img src="../Cake Shop SVG/profile-svgrepo-com.svg"></img>
+        </a>
+        <name>Name</name>
+        <quantity>1</quantity>
+        <subtotal>Rs. 123</subtotal>
+    </cartcard>
+</cart>
